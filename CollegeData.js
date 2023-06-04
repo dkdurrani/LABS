@@ -5,7 +5,7 @@ class Data {
     this.students = students;
     this.courses = courses;
   }
-}
+} 
 
 let dataCollection = null;
 
